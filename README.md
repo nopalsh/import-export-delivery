@@ -1,7 +1,6 @@
 # ⏳ [Web Projects] Ekspedisi Barang Impor Ekspor
 
-Ini dokumentasi dari beberapa proyek web yang sudah selesai 99%. Dokumentasi mencakup deskripsi serta screenshot dari setiap halaman, serta file-file yang menyertakan versi lengkap dari website beserta database. Proyek-proyek yang ada di sini meliputi aplikasi web untuk jasa ekspedisi, pelacakan pengiriman barang, dan pemesanan kamar hotel.
-
+Ini dokumentasi dari beberapa proyek web yang sudah selesai 99%. Dokumentasi mencakup deskripsi serta screenshot dari setiap halaman, serta file-file yang menyertakan versi lengkap dari website beserta database.
 ## 📜 Tentang Lisensi
 
 Semua proyek dalam repositori ini dilisensikan oleh GitHub di bawah Apache License 2.0. Hak kepemilikan proyek-proyek ini sepenuhnya dimiliki oleh **Wahyu Setiya Ramadan**
@@ -27,8 +26,6 @@ Ini web untuk jasa ekspedisi impor dan ekspor barang. Admin bisa input data yang
 - [Download File Website Admin Impor-Ekspor](https://raw.githubusercontent.com/nopalsh/import-export-delivery/main/Admin%20Impor-Ekspor%20Barang/Admin%20Impor-Ekspor.zip)
 - [Download Dokumentasi (Word) Website Admin Impor-Ekspor](https://raw.githubusercontent.com/nopalsh/import-export-delivery/main/Admin%20Impor-Ekspor%20Barang/Website%20Impor-Ekspor%20Barang.docx)
 - [Lihat Semua Screenshot Website Admin Impor-Ekspor](https://github.com/nopalsh/import-export-delivery/tree/main/Admin%20Impor-Ekspor%20Barang/Screenshot)
-
-atau download semua file via [Google Drive](https://drive.google.com/drive/folders/1gUxMbK7adSH_VLIbiCzOVtGZrHxYnz7N?usp=sharing)
 
 ---
 
