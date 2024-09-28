@@ -23,10 +23,7 @@ Ini web untuk jasa ekspedisi impor dan ekspor barang. Admin bisa input data yang
 - ![Screenshot 2](https://github.com/nopalsh/import-export-delivery/blob/main/Admin%20Impor-Ekspor%20Barang/Screenshot/screencapture-localhost-eks-edit-ekspor-php-2024-07-08-10_11_02.png)
 
 **Download File**:
-- [Download File Website Admin Impor-Ekspor](https://raw.githubusercontent.com/nopalsh/import-export-delivery/main/Admin%20Impor-Ekspor%20Barang/Admin%20Impor-Ekspor.zip)
-- [Download Dokumentasi (Word) Website Admin Impor-Ekspor](https://raw.githubusercontent.com/nopalsh/import-export-delivery/main/Admin%20Impor-Ekspor%20Barang/Website%20Impor-Ekspor%20Barang.docx)
-- [Lihat Semua Screenshot Website Admin Impor-Ekspor](https://github.com/nopalsh/import-export-delivery/tree/main/Admin%20Impor-Ekspor%20Barang/Screenshot)
-
+- Milik : Wahyu Setiya Ramadan
 ---
 
 ## 💻 Teknologi yang Digunakan
@@ -38,11 +35,6 @@ Ini web untuk jasa ekspedisi impor dan ekspor barang. Admin bisa input data yang
 - **MySQL**: Untuk database.
 - **XAMPP**: Untuk server lokal (localhost).
 
-## Panduan Menjalankan Websitenya
-
-- Download XAMPP di [tautan ini](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.0.30/xampp-windows-x64-8.0.30-0-VS16-installer.exe/download)
-- Setelah download, Ikuti petunjuk instalasi di layar hingga selesai. **Klik "Next" terus saja dan ikuti petunjuknya. Kalau, muncul notifikasi, klik "Allow" atau "Yes" semuanya.**
-- Setelah install XAMPP, baru tonton video ini, cara menjalankan websitenya: [Tonton Videonya](https://drive.google.com/file/d/1071KytagK0uR5B9yH4k4Ih9B5KW5XZup/view?usp=sharing)
 
 ### Username & Password untuk Website Admin Impor-Ekspor dan Website Tracking
 
